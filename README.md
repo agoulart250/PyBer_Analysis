@@ -14,3 +14,4 @@ The Suburban area falls in the middle compared to Urban and Rural areas with a m
 ## Summary: 
 ![](./Resources/Pyber_fare_summary.png)
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
